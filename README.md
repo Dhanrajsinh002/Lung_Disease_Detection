@@ -24,6 +24,12 @@ Dowload reqired libraries just by running following command:
 pip install tensorflow numpy opencv-contrib-python opencv-python matplotlib seaborn pandas scikit-learn
 ```
 
+## Dataset
+
+You can download data from following link
+
+(https://drive.google.com/drive/folders/1l3z9d9w0ZxFlaLddULuAmVt6U2UMcMQr?usp=sharing)
+
 ## File Descriptions
 - `image_classification.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, evaluation, and prediction.
 - `README.txt`: This file, providing essential information about the project.
