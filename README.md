@@ -49,4 +49,10 @@ This project involves building a deep learning model for image classification us
 - The trained model (`model_resnet50.h5`) can be loaded for further use without retraining.
 - Adjust the image paths and parameters in the notebook according to your project structure and requirements.
 
+## Running Locally
+Navigate to the project directory containing Projectrun.py and run the following command in the terminal:
+```
+python Projectrun.py
+```
+
 Feel free to customize and expand upon this README to suit your project's specific details and requirements.
