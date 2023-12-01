@@ -34,26 +34,21 @@ https://drive.google.com/drive/folders/1l3z9d9w0ZxFlaLddULuAmVt6U2UMcMQr?usp=sha
 - `image_classification.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, evaluation, and prediction.
 - `README.txt`: This file, providing essential information about the project.
 
-## Instructions
-1. *Environment Setup:*
-   - Install the required Python packages listed in `requirements.txt` by running:
-     
-     pip install -r requirements.txt
-     
+## Instructions     
 
-2. *Dataset:*
+1. *Dataset:*
    - Place the image dataset in the `data` directory.
 
-3. *Model Training:*
+2. *Model Training:*
    - Run the `image_classification.ipynb` notebook to train the ResNet50 model. Adjust hyperparameters and paths as needed.
 
-4. *Model Evaluation:*
+3. *Model Evaluation:*
    - Evaluate the model on the test set and view performance metrics using the provided code in the notebook.
 
-5. *Prediction:*
+4. *Prediction:*
    - Use the model to make predictions on new images by following the example provided in the notebook.
 
-6. *Results Visualization:*
+5. *Results Visualization:*
    - Visualize model predictions on a subset of the test set using Matplotlib.
 
 ## Additional Notes
