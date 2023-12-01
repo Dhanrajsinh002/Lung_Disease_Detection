@@ -19,6 +19,11 @@ This project involves building a deep learning model for image classification us
 - Pandas
 - Scikit-learn
 
+Dowload reqired libraries just by running following command:
+```
+pip install tensorflow numpy opencv-contrib-python opencv-python matplotlib seaborn pandas scikit-learn
+```
+
 ## File Descriptions
 - `image_classification.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, evaluation, and prediction.
 - `README.txt`: This file, providing essential information about the project.
