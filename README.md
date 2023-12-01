@@ -5,7 +5,6 @@ Deep Learning Lung Disease Detection Project
 This project involves building a deep learning model for image classification using the ResNet50 architecture. The dataset used for training and testing the model consists of images categorized into different classes. The main goal is to predict the class labels of images accurately.
 
 ## Project Structure
-- `data`: Contains the dataset used for training and testing.
 - `model_resnet50.h5`: The trained ResNet50 model saved in HDF5 format.
 - `README.txt`: Documentation providing an overview of the project, instructions, and details about the code and model.
 
